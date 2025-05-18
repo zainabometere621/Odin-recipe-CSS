@@ -1,0 +1,27 @@
+body{
+    background-color: wheat;
+}
+img {
+    border:3px solid;
+    border-color: brown;
+}
+.headings {
+    color: brown;
+}
+div {
+    color: darkgreen;
+}
+p {
+color: darkgreen;
+font-size: normal;
+}
+a {
+    color: coral;
+}
+.anchors{
+    color: coral;
+}
+#styling {
+    padding: 10px;
+    margin: 10px;
+}
